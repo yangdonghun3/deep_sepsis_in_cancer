@@ -27,7 +27,7 @@ The computational analysis was supported by the National Supercomputing Center, 
 - Use of source codes are free for academic researchers. However, the users of source codes from the private sector will need to contact to the developers of the project.
 ## Caveat
 We present the source codes as an example of our research project to help readers understand. We don't provide data preprocessing code. For preprocessing, such as generation drug relationship features, please refer to [our previous work](https://github.com/hypaik/SuicideNetwork).
-For testing the proposed spesis prediction model, we provide dummy data instead of the EHR information of cancer patients used in our experiments.
+Due to personal information issues, we provide dummy data instead of the EHR information of cancer patients used in our experiments for testing the proposed sepsis prediction model.
 
 ## Experiments
 We provide training and testing codes for two machin learning models and three deep learning models for sepsis prediction. 
