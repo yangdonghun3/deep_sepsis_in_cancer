@@ -1,0 +1,1741 @@
+features
+PT_ID
+Birth_Date
+Gender_CD
+SMC_Dx_Date
+Histo_Dx_CD1_bin
+Wt
+Extend_CD
+Ca_LN_No
+T_CD
+N_CD
+M_CD
+Smoking
+C22
+C34
+C50
+M8000
+M8004
+M8010
+M8012
+M8013
+M8020
+M8022
+M8031
+M8032
+M8033
+M8041
+M8045
+M8046
+M8052
+M8070
+M8071
+M8072
+M8073
+M8075
+M8082
+M8083
+M8123
+M8140
+M8141
+M8160
+M8162
+M8170
+M8180
+M8200
+M8201
+M8211
+M8230
+M8240
+M8246
+M8249
+M8253
+M8255
+M8260
+M8265
+M8401
+M8430
+M8480
+M8481
+M8490
+M8500
+M8501
+M8502
+M8503
+M8507
+M8510
+M8520
+M8522
+M8523
+M8541
+M8550
+M8560
+M8562
+M8570
+M8574
+M8575
+M8800
+M8801
+M8802
+M8805
+M8811
+M8825
+M8890
+M9020
+M9040
+M9050
+M9052
+M9120
+M9133
+M9364
+M9590
+M9663
+M9680
+M9684
+M9687
+M9699
+M9702
+M9714
+M9724
+M9751
+M9930
+A/G ratio
+Albumin
+ALC (Absolute Lymphocyte Count)
+ALP
+ANC (Absolute Neutrophil Count)
+APTT
+AST
+Band neutrophil
+Basophil
+"Bilirubin, Total"
+BUN
+BUN & Creatinine ratio
+Ca
+"Ca,Ionized"
+Cholesterol
+ESR (Erythrocyte Sedimentation Rate)
+Globulin
+"Hematocrit, Blood"
+"Hemoglobin, Blood"
+Lactic Acid
+LD
+Lymphocyte
+Mg
+Nucleated RBC
+P
+"Platelet Count, Blood"
+"Protein, Total"
+PT( % )
+PT(INR)
+PT(sec)
+"RBC Count, Blood"
+Rh Type
+Segmented neutrophil
+"TCO2 (Carbon Dioxide, Total)"
+Uric Acid
+2A
+2A1
+2AMD
+2B
+2DE
+2EAR
+2MD
+2P
+2P2
+2PRN
+2W
+3A
+3A1
+3P
+3P1
+3P2
+3PRN
+3W
+4A
+4A1
+4OD
+4P
+4P1
+4PRN
+ACS
+AD
+AD1
+AE
+AE1
+AM
+AM1
+AMHS
+BD
+BE
+BM
+CIV
+D
+D2
+DA
+DF
+DI
+DIR1
+DO
+DS
+DT
+DY
+DZ
+E
+E2
+EAR
+EOD
+ET
+FOU
+FW
+GAR
+HS
+IA
+ID
+IL
+IM
+IN
+INF
+INM
+INN
+IRRI
+IT
+IV
+IV12
+IV6
+IV8
+IVM
+IVS
+IVST
+IVT
+M
+M2
+MHS
+MON
+MT
+NEED
+NO
+OD
+ODHS
+OS
+OS2
+OU
+PAT
+PR
+PRN
+Q12
+Q4
+Q6
+Q8
+SAVE
+SC
+SH
+SL
+SP
+SPR
+ST
+T07
+T10
+T19
+UD
+WD
+WE
+WM
+WO
+XX
+M-111.0
+M-112.0
+M-113.0
+Antipyretic
+M-115.0
+Psychoneurotic
+M-119.0
+M-121.0
+M-122.0
+M-123.0
+M-124.0
+M-131.0
+M-132.0
+Antihistamine
+M-142.0
+M-149.0
+M-211.0
+M-212.0
+Diuretic
+Blood pressure lowering
+M-215.0
+M-216.0
+M-217.0
+M-218.0
+Blood circulatory
+M-220.0
+Expectorant
+M-229.0
+M-231.0
+Peptic ulcer
+Peptic
+Antacid
+Antiemetic
+M-236.0
+M-237.0
+Laxative
+Digestive system
+M-241.0
+M-243.0
+Adrenal hormone
+M-247.0
+M-249.0
+M-256.0
+M-259.0
+M-261.0
+M-264.0
+M-265.0
+M-266.0
+M-267.0
+M-269.0
+M-311.0
+M-312.0
+Vitamin B
+M-315.0
+M-316.0
+M-319.0
+M-321.0
+M-322.0
+Diabetes
+M-325.0
+M-329.0
+Blood substitute
+M-332.0
+M-333.0
+M-339.0
+M-349.0
+Liver disease
+M-392.0
+M-394.0
+M-395.0
+M-396.0
+Metabolic
+Malignant tumor
+M-429.0
+M-490.0
+M-611.0
+M-612.0
+M-613.0
+M-615.0
+M-616.0
+M-617.0
+M-618.0
+M-619.0
+M-621.0
+M-622.0
+M-629.0
+M-631.0
+M-634.0
+M-640007020
+M-641.0
+M-648602890
+M-712.0
+M-713.0
+M-719.0
+M-721.0
+M-722.0
+M-728.0
+M-799.0
+Opioid alkaloids
+Synthetic narcotic
+M-SELF
+M-112.0-Antipyretic_multiply
+M-112.0-Antipyretic_arctan
+M-112.0-Antipyretic_hmean
+M-112.0-Psychoneurotic_multiply
+M-112.0-Psychoneurotic_arctan
+M-112.0-Psychoneurotic_hmean
+M-112.0-Antihistamine_multiply
+M-112.0-Antihistamine_arctan
+M-112.0-Antihistamine_hmean
+M-112.0-Diuretic_multiply
+M-112.0-Diuretic_arctan
+M-112.0-Diuretic_hmean
+M-112.0-Blood pressure lowering_multiply
+M-112.0-Blood pressure lowering_arctan
+M-112.0-Blood pressure lowering_hmean
+M-112.0-Blood circulatory_multiply
+M-112.0-Blood circulatory_arctan
+M-112.0-Blood circulatory_hmean
+M-112.0-Expectorant_multiply
+M-112.0-Expectorant_arctan
+M-112.0-Expectorant_hmean
+M-112.0-M-231.0_multiply
+M-112.0-M-231.0_arctan
+M-112.0-M-231.0_hmean
+M-112.0-Peptic ulcer_multiply
+M-112.0-Peptic ulcer_arctan
+M-112.0-Peptic ulcer_hmean
+M-112.0-Peptic_multiply
+M-112.0-Peptic_arctan
+M-112.0-Peptic_hmean
+M-112.0-Antacid_multiply
+M-112.0-Antacid_arctan
+M-112.0-Antacid_hmean
+M-112.0-Antiemetic_multiply
+M-112.0-Antiemetic_arctan
+M-112.0-Antiemetic_hmean
+M-112.0-Laxative_multiply
+M-112.0-Laxative_arctan
+M-112.0-Laxative_hmean
+M-112.0-Digestive system_multiply
+M-112.0-Digestive system_arctan
+M-112.0-Digestive system_hmean
+M-112.0-Adrenal hormone_multiply
+M-112.0-Adrenal hormone_arctan
+M-112.0-Adrenal hormone_hmean
+M-112.0-Vitamin B_multiply
+M-112.0-Vitamin B_arctan
+M-112.0-Vitamin B_hmean
+M-112.0-Diabetes_multiply
+M-112.0-Diabetes_arctan
+M-112.0-Diabetes_hmean
+M-112.0-M-325.0_multiply
+M-112.0-M-325.0_arctan
+M-112.0-M-325.0_hmean
+M-112.0-Blood substitute_multiply
+M-112.0-Blood substitute_arctan
+M-112.0-Blood substitute_hmean
+M-112.0-M-333.0_multiply
+M-112.0-M-333.0_arctan
+M-112.0-M-333.0_hmean
+M-112.0-M-339.0_multiply
+M-112.0-M-339.0_arctan
+M-112.0-M-339.0_hmean
+M-112.0-Liver disease_multiply
+M-112.0-Liver disease_arctan
+M-112.0-Liver disease_hmean
+M-112.0-M-396.0_multiply
+M-112.0-M-396.0_arctan
+M-112.0-M-396.0_hmean
+M-112.0-Metabolic_multiply
+M-112.0-Metabolic_arctan
+M-112.0-Metabolic_hmean
+M-112.0-Malignant tumor_multiply
+M-112.0-Malignant tumor_arctan
+M-112.0-Malignant tumor_hmean
+M-112.0-M-617.0_multiply
+M-112.0-M-617.0_arctan
+M-112.0-M-617.0_hmean
+M-112.0-M-618.0_multiply
+M-112.0-M-618.0_arctan
+M-112.0-M-618.0_hmean
+M-112.0-M-629.0_multiply
+M-112.0-M-629.0_arctan
+M-112.0-M-629.0_hmean
+M-112.0-Opioid alkaloids_multiply
+M-112.0-Opioid alkaloids_arctan
+M-112.0-Opioid alkaloids_hmean
+M-112.0-Synthetic narcotic_multiply
+M-112.0-Synthetic narcotic_arctan
+M-112.0-Synthetic narcotic_hmean
+Antipyretic-Psychoneurotic_multiply
+Antipyretic-Psychoneurotic_arctan
+Antipyretic-Psychoneurotic_hmean
+Antipyretic-Antihistamine_multiply
+Antipyretic-Antihistamine_arctan
+Antipyretic-Antihistamine_hmean
+Antipyretic-Diuretic_multiply
+Antipyretic-Diuretic_arctan
+Antipyretic-Diuretic_hmean
+Antipyretic-Blood pressure lowering_multiply
+Antipyretic-Blood pressure lowering_arctan
+Antipyretic-Blood pressure lowering_hmean
+Antipyretic-Blood circulatory_multiply
+Antipyretic-Blood circulatory_arctan
+Antipyretic-Blood circulatory_hmean
+Antipyretic-Expectorant_multiply
+Antipyretic-Expectorant_arctan
+Antipyretic-Expectorant_hmean
+Antipyretic-M-231.0_multiply
+Antipyretic-M-231.0_arctan
+Antipyretic-M-231.0_hmean
+Antipyretic-Peptic ulcer_multiply
+Antipyretic-Peptic ulcer_arctan
+Antipyretic-Peptic ulcer_hmean
+Antipyretic-Peptic_multiply
+Antipyretic-Peptic_arctan
+Antipyretic-Peptic_hmean
+Antipyretic-Antacid_multiply
+Antipyretic-Antacid_arctan
+Antipyretic-Antacid_hmean
+Antipyretic-Antiemetic_multiply
+Antipyretic-Antiemetic_arctan
+Antipyretic-Antiemetic_hmean
+Antipyretic-Laxative_multiply
+Antipyretic-Laxative_arctan
+Antipyretic-Laxative_hmean
+Antipyretic-Digestive system_multiply
+Antipyretic-Digestive system_arctan
+Antipyretic-Digestive system_hmean
+Antipyretic-Adrenal hormone_multiply
+Antipyretic-Adrenal hormone_arctan
+Antipyretic-Adrenal hormone_hmean
+Antipyretic-Vitamin B_multiply
+Antipyretic-Vitamin B_arctan
+Antipyretic-Vitamin B_hmean
+Antipyretic-Diabetes_multiply
+Antipyretic-Diabetes_arctan
+Antipyretic-Diabetes_hmean
+Antipyretic-M-325.0_multiply
+Antipyretic-M-325.0_arctan
+Antipyretic-M-325.0_hmean
+Antipyretic-Blood substitute_multiply
+Antipyretic-Blood substitute_arctan
+Antipyretic-Blood substitute_hmean
+Antipyretic-M-333.0_multiply
+Antipyretic-M-333.0_arctan
+Antipyretic-M-333.0_hmean
+Antipyretic-M-339.0_multiply
+Antipyretic-M-339.0_arctan
+Antipyretic-M-339.0_hmean
+Antipyretic-Liver disease_multiply
+Antipyretic-Liver disease_arctan
+Antipyretic-Liver disease_hmean
+Antipyretic-M-396.0_multiply
+Antipyretic-M-396.0_arctan
+Antipyretic-M-396.0_hmean
+Antipyretic-Metabolic_multiply
+Antipyretic-Metabolic_arctan
+Antipyretic-Metabolic_hmean
+Antipyretic-Malignant tumor_multiply
+Antipyretic-Malignant tumor_arctan
+Antipyretic-Malignant tumor_hmean
+Antipyretic-M-617.0_multiply
+Antipyretic-M-617.0_arctan
+Antipyretic-M-617.0_hmean
+Antipyretic-M-618.0_multiply
+Antipyretic-M-618.0_arctan
+Antipyretic-M-618.0_hmean
+Antipyretic-M-629.0_multiply
+Antipyretic-M-629.0_arctan
+Antipyretic-M-629.0_hmean
+Antipyretic-Opioid alkaloids_multiply
+Antipyretic-Opioid alkaloids_arctan
+Antipyretic-Opioid alkaloids_hmean
+Antipyretic-Synthetic narcotic_multiply
+Antipyretic-Synthetic narcotic_arctan
+Antipyretic-Synthetic narcotic_hmean
+Psychoneurotic-Antihistamine_multiply
+Psychoneurotic-Antihistamine_arctan
+Psychoneurotic-Antihistamine_hmean
+Psychoneurotic-Diuretic_multiply
+Psychoneurotic-Diuretic_arctan
+Psychoneurotic-Diuretic_hmean
+Psychoneurotic-Blood pressure lowering_multiply
+Psychoneurotic-Blood pressure lowering_arctan
+Psychoneurotic-Blood pressure lowering_hmean
+Psychoneurotic-Blood circulatory_multiply
+Psychoneurotic-Blood circulatory_arctan
+Psychoneurotic-Blood circulatory_hmean
+Psychoneurotic-Expectorant_multiply
+Psychoneurotic-Expectorant_arctan
+Psychoneurotic-Expectorant_hmean
+Psychoneurotic-M-231.0_multiply
+Psychoneurotic-M-231.0_arctan
+Psychoneurotic-M-231.0_hmean
+Psychoneurotic-Peptic ulcer_multiply
+Psychoneurotic-Peptic ulcer_arctan
+Psychoneurotic-Peptic ulcer_hmean
+Psychoneurotic-Peptic_multiply
+Psychoneurotic-Peptic_arctan
+Psychoneurotic-Peptic_hmean
+Psychoneurotic-Antacid_multiply
+Psychoneurotic-Antacid_arctan
+Psychoneurotic-Antacid_hmean
+Psychoneurotic-Antiemetic_multiply
+Psychoneurotic-Antiemetic_arctan
+Psychoneurotic-Antiemetic_hmean
+Psychoneurotic-Laxative_multiply
+Psychoneurotic-Laxative_arctan
+Psychoneurotic-Laxative_hmean
+Psychoneurotic-Digestive system_multiply
+Psychoneurotic-Digestive system_arctan
+Psychoneurotic-Digestive system_hmean
+Psychoneurotic-Adrenal hormone_multiply
+Psychoneurotic-Adrenal hormone_arctan
+Psychoneurotic-Adrenal hormone_hmean
+Psychoneurotic-Vitamin B_multiply
+Psychoneurotic-Vitamin B_arctan
+Psychoneurotic-Vitamin B_hmean
+Psychoneurotic-Diabetes_multiply
+Psychoneurotic-Diabetes_arctan
+Psychoneurotic-Diabetes_hmean
+Psychoneurotic-M-325.0_multiply
+Psychoneurotic-M-325.0_arctan
+Psychoneurotic-M-325.0_hmean
+Psychoneurotic-Blood substitute_multiply
+Psychoneurotic-Blood substitute_arctan
+Psychoneurotic-Blood substitute_hmean
+Psychoneurotic-M-333.0_multiply
+Psychoneurotic-M-333.0_arctan
+Psychoneurotic-M-333.0_hmean
+Psychoneurotic-M-339.0_multiply
+Psychoneurotic-M-339.0_arctan
+Psychoneurotic-M-339.0_hmean
+Psychoneurotic-Liver disease_multiply
+Psychoneurotic-Liver disease_arctan
+Psychoneurotic-Liver disease_hmean
+Psychoneurotic-M-396.0_multiply
+Psychoneurotic-M-396.0_arctan
+Psychoneurotic-M-396.0_hmean
+Psychoneurotic-Metabolic_multiply
+Psychoneurotic-Metabolic_arctan
+Psychoneurotic-Metabolic_hmean
+Psychoneurotic-Malignant tumor_multiply
+Psychoneurotic-Malignant tumor_arctan
+Psychoneurotic-Malignant tumor_hmean
+Psychoneurotic-M-617.0_multiply
+Psychoneurotic-M-617.0_arctan
+Psychoneurotic-M-617.0_hmean
+Psychoneurotic-M-618.0_multiply
+Psychoneurotic-M-618.0_arctan
+Psychoneurotic-M-618.0_hmean
+Psychoneurotic-M-629.0_multiply
+Psychoneurotic-M-629.0_arctan
+Psychoneurotic-M-629.0_hmean
+Psychoneurotic-Opioid alkaloids_multiply
+Psychoneurotic-Opioid alkaloids_arctan
+Psychoneurotic-Opioid alkaloids_hmean
+Psychoneurotic-Synthetic narcotic_multiply
+Psychoneurotic-Synthetic narcotic_arctan
+Psychoneurotic-Synthetic narcotic_hmean
+Antihistamine-Diuretic_multiply
+Antihistamine-Diuretic_arctan
+Antihistamine-Diuretic_hmean
+Antihistamine-Blood pressure lowering_multiply
+Antihistamine-Blood pressure lowering_arctan
+Antihistamine-Blood pressure lowering_hmean
+Antihistamine-Blood circulatory_multiply
+Antihistamine-Blood circulatory_arctan
+Antihistamine-Blood circulatory_hmean
+Antihistamine-Expectorant_multiply
+Antihistamine-Expectorant_arctan
+Antihistamine-Expectorant_hmean
+Antihistamine-M-231.0_multiply
+Antihistamine-M-231.0_arctan
+Antihistamine-M-231.0_hmean
+Antihistamine-Peptic ulcer_multiply
+Antihistamine-Peptic ulcer_arctan
+Antihistamine-Peptic ulcer_hmean
+Antihistamine-Peptic_multiply
+Antihistamine-Peptic_arctan
+Antihistamine-Peptic_hmean
+Antihistamine-Antacid_multiply
+Antihistamine-Antacid_arctan
+Antihistamine-Antacid_hmean
+Antihistamine-Antiemetic_multiply
+Antihistamine-Antiemetic_arctan
+Antihistamine-Antiemetic_hmean
+Antihistamine-Laxative_multiply
+Antihistamine-Laxative_arctan
+Antihistamine-Laxative_hmean
+Antihistamine-Digestive system_multiply
+Antihistamine-Digestive system_arctan
+Antihistamine-Digestive system_hmean
+Antihistamine-Adrenal hormone_multiply
+Antihistamine-Adrenal hormone_arctan
+Antihistamine-Adrenal hormone_hmean
+Antihistamine-Vitamin B_multiply
+Antihistamine-Vitamin B_arctan
+Antihistamine-Vitamin B_hmean
+Antihistamine-Diabetes_multiply
+Antihistamine-Diabetes_arctan
+Antihistamine-Diabetes_hmean
+Antihistamine-M-325.0_multiply
+Antihistamine-M-325.0_arctan
+Antihistamine-M-325.0_hmean
+Antihistamine-Blood substitute_multiply
+Antihistamine-Blood substitute_arctan
+Antihistamine-Blood substitute_hmean
+Antihistamine-M-333.0_multiply
+Antihistamine-M-333.0_arctan
+Antihistamine-M-333.0_hmean
+Antihistamine-M-339.0_multiply
+Antihistamine-M-339.0_arctan
+Antihistamine-M-339.0_hmean
+Antihistamine-Liver disease_multiply
+Antihistamine-Liver disease_arctan
+Antihistamine-Liver disease_hmean
+Antihistamine-M-396.0_multiply
+Antihistamine-M-396.0_arctan
+Antihistamine-M-396.0_hmean
+Antihistamine-Metabolic_multiply
+Antihistamine-Metabolic_arctan
+Antihistamine-Metabolic_hmean
+Antihistamine-Malignant tumor_multiply
+Antihistamine-Malignant tumor_arctan
+Antihistamine-Malignant tumor_hmean
+Antihistamine-M-617.0_multiply
+Antihistamine-M-617.0_arctan
+Antihistamine-M-617.0_hmean
+Antihistamine-M-618.0_multiply
+Antihistamine-M-618.0_arctan
+Antihistamine-M-618.0_hmean
+Antihistamine-M-629.0_multiply
+Antihistamine-M-629.0_arctan
+Antihistamine-M-629.0_hmean
+Antihistamine-Opioid alkaloids_multiply
+Antihistamine-Opioid alkaloids_arctan
+Antihistamine-Opioid alkaloids_hmean
+Antihistamine-Synthetic narcotic_multiply
+Antihistamine-Synthetic narcotic_arctan
+Antihistamine-Synthetic narcotic_hmean
+Diuretic-Blood pressure lowering_multiply
+Diuretic-Blood pressure lowering_arctan
+Diuretic-Blood pressure lowering_hmean
+Diuretic-Blood circulatory_multiply
+Diuretic-Blood circulatory_arctan
+Diuretic-Blood circulatory_hmean
+Diuretic-Expectorant_multiply
+Diuretic-Expectorant_arctan
+Diuretic-Expectorant_hmean
+Diuretic-M-231.0_multiply
+Diuretic-M-231.0_arctan
+Diuretic-M-231.0_hmean
+Diuretic-Peptic ulcer_multiply
+Diuretic-Peptic ulcer_arctan
+Diuretic-Peptic ulcer_hmean
+Diuretic-Peptic_multiply
+Diuretic-Peptic_arctan
+Diuretic-Peptic_hmean
+Diuretic-Antacid_multiply
+Diuretic-Antacid_arctan
+Diuretic-Antacid_hmean
+Diuretic-Antiemetic_multiply
+Diuretic-Antiemetic_arctan
+Diuretic-Antiemetic_hmean
+Diuretic-Laxative_multiply
+Diuretic-Laxative_arctan
+Diuretic-Laxative_hmean
+Diuretic-Digestive system_multiply
+Diuretic-Digestive system_arctan
+Diuretic-Digestive system_hmean
+Diuretic-Adrenal hormone_multiply
+Diuretic-Adrenal hormone_arctan
+Diuretic-Adrenal hormone_hmean
+Diuretic-Vitamin B_multiply
+Diuretic-Vitamin B_arctan
+Diuretic-Vitamin B_hmean
+Diuretic-Diabetes_multiply
+Diuretic-Diabetes_arctan
+Diuretic-Diabetes_hmean
+Diuretic-M-325.0_multiply
+Diuretic-M-325.0_arctan
+Diuretic-M-325.0_hmean
+Diuretic-Blood substitute_multiply
+Diuretic-Blood substitute_arctan
+Diuretic-Blood substitute_hmean
+Diuretic-M-333.0_multiply
+Diuretic-M-333.0_arctan
+Diuretic-M-333.0_hmean
+Diuretic-M-339.0_multiply
+Diuretic-M-339.0_arctan
+Diuretic-M-339.0_hmean
+Diuretic-Liver disease_multiply
+Diuretic-Liver disease_arctan
+Diuretic-Liver disease_hmean
+Diuretic-M-396.0_multiply
+Diuretic-M-396.0_arctan
+Diuretic-M-396.0_hmean
+Diuretic-Metabolic_multiply
+Diuretic-Metabolic_arctan
+Diuretic-Metabolic_hmean
+Diuretic-Malignant tumor_multiply
+Diuretic-Malignant tumor_arctan
+Diuretic-Malignant tumor_hmean
+Diuretic-M-617.0_multiply
+Diuretic-M-617.0_arctan
+Diuretic-M-617.0_hmean
+Diuretic-M-618.0_multiply
+Diuretic-M-618.0_arctan
+Diuretic-M-618.0_hmean
+Diuretic-M-629.0_multiply
+Diuretic-M-629.0_arctan
+Diuretic-M-629.0_hmean
+Diuretic-Opioid alkaloids_multiply
+Diuretic-Opioid alkaloids_arctan
+Diuretic-Opioid alkaloids_hmean
+Diuretic-Synthetic narcotic_multiply
+Diuretic-Synthetic narcotic_arctan
+Diuretic-Synthetic narcotic_hmean
+Blood pressure lowering-Blood circulatory_multiply
+Blood pressure lowering-Blood circulatory_arctan
+Blood pressure lowering-Blood circulatory_hmean
+Blood pressure lowering-Expectorant_multiply
+Blood pressure lowering-Expectorant_arctan
+Blood pressure lowering-Expectorant_hmean
+Blood pressure lowering-M-231.0_multiply
+Blood pressure lowering-M-231.0_arctan
+Blood pressure lowering-M-231.0_hmean
+Blood pressure lowering-Peptic ulcer_multiply
+Blood pressure lowering-Peptic ulcer_arctan
+Blood pressure lowering-Peptic ulcer_hmean
+Blood pressure lowering-Peptic_multiply
+Blood pressure lowering-Peptic_arctan
+Blood pressure lowering-Peptic_hmean
+Blood pressure lowering-Antacid_multiply
+Blood pressure lowering-Antacid_arctan
+Blood pressure lowering-Antacid_hmean
+Blood pressure lowering-Antiemetic_multiply
+Blood pressure lowering-Antiemetic_arctan
+Blood pressure lowering-Antiemetic_hmean
+Blood pressure lowering-Laxative_multiply
+Blood pressure lowering-Laxative_arctan
+Blood pressure lowering-Laxative_hmean
+Blood pressure lowering-Digestive system_multiply
+Blood pressure lowering-Digestive system_arctan
+Blood pressure lowering-Digestive system_hmean
+Blood pressure lowering-Adrenal hormone_multiply
+Blood pressure lowering-Adrenal hormone_arctan
+Blood pressure lowering-Adrenal hormone_hmean
+Blood pressure lowering-Vitamin B_multiply
+Blood pressure lowering-Vitamin B_arctan
+Blood pressure lowering-Vitamin B_hmean
+Blood pressure lowering-Diabetes_multiply
+Blood pressure lowering-Diabetes_arctan
+Blood pressure lowering-Diabetes_hmean
+Blood pressure lowering-M-325.0_multiply
+Blood pressure lowering-M-325.0_arctan
+Blood pressure lowering-M-325.0_hmean
+Blood pressure lowering-Blood substitute_multiply
+Blood pressure lowering-Blood substitute_arctan
+Blood pressure lowering-Blood substitute_hmean
+Blood pressure lowering-M-333.0_multiply
+Blood pressure lowering-M-333.0_arctan
+Blood pressure lowering-M-333.0_hmean
+Blood pressure lowering-M-339.0_multiply
+Blood pressure lowering-M-339.0_arctan
+Blood pressure lowering-M-339.0_hmean
+Blood pressure lowering-Liver disease_multiply
+Blood pressure lowering-Liver disease_arctan
+Blood pressure lowering-Liver disease_hmean
+Blood pressure lowering-M-396.0_multiply
+Blood pressure lowering-M-396.0_arctan
+Blood pressure lowering-M-396.0_hmean
+Blood pressure lowering-Metabolic_multiply
+Blood pressure lowering-Metabolic_arctan
+Blood pressure lowering-Metabolic_hmean
+Blood pressure lowering-Malignant tumor_multiply
+Blood pressure lowering-Malignant tumor_arctan
+Blood pressure lowering-Malignant tumor_hmean
+Blood pressure lowering-M-617.0_multiply
+Blood pressure lowering-M-617.0_arctan
+Blood pressure lowering-M-617.0_hmean
+Blood pressure lowering-M-618.0_multiply
+Blood pressure lowering-M-618.0_arctan
+Blood pressure lowering-M-618.0_hmean
+Blood pressure lowering-M-629.0_multiply
+Blood pressure lowering-M-629.0_arctan
+Blood pressure lowering-M-629.0_hmean
+Blood pressure lowering-Opioid alkaloids_multiply
+Blood pressure lowering-Opioid alkaloids_arctan
+Blood pressure lowering-Opioid alkaloids_hmean
+Blood pressure lowering-Synthetic narcotic_multiply
+Blood pressure lowering-Synthetic narcotic_arctan
+Blood pressure lowering-Synthetic narcotic_hmean
+Blood circulatory-Expectorant_multiply
+Blood circulatory-Expectorant_arctan
+Blood circulatory-Expectorant_hmean
+Blood circulatory-M-231.0_multiply
+Blood circulatory-M-231.0_arctan
+Blood circulatory-M-231.0_hmean
+Blood circulatory-Peptic ulcer_multiply
+Blood circulatory-Peptic ulcer_arctan
+Blood circulatory-Peptic ulcer_hmean
+Blood circulatory-Peptic_multiply
+Blood circulatory-Peptic_arctan
+Blood circulatory-Peptic_hmean
+Blood circulatory-Antacid_multiply
+Blood circulatory-Antacid_arctan
+Blood circulatory-Antacid_hmean
+Blood circulatory-Antiemetic_multiply
+Blood circulatory-Antiemetic_arctan
+Blood circulatory-Antiemetic_hmean
+Blood circulatory-Laxative_multiply
+Blood circulatory-Laxative_arctan
+Blood circulatory-Laxative_hmean
+Blood circulatory-Digestive system_multiply
+Blood circulatory-Digestive system_arctan
+Blood circulatory-Digestive system_hmean
+Blood circulatory-Adrenal hormone_multiply
+Blood circulatory-Adrenal hormone_arctan
+Blood circulatory-Adrenal hormone_hmean
+Blood circulatory-Vitamin B_multiply
+Blood circulatory-Vitamin B_arctan
+Blood circulatory-Vitamin B_hmean
+Blood circulatory-Diabetes_multiply
+Blood circulatory-Diabetes_arctan
+Blood circulatory-Diabetes_hmean
+Blood circulatory-M-325.0_multiply
+Blood circulatory-M-325.0_arctan
+Blood circulatory-M-325.0_hmean
+Blood circulatory-Blood substitute_multiply
+Blood circulatory-Blood substitute_arctan
+Blood circulatory-Blood substitute_hmean
+Blood circulatory-M-333.0_multiply
+Blood circulatory-M-333.0_arctan
+Blood circulatory-M-333.0_hmean
+Blood circulatory-M-339.0_multiply
+Blood circulatory-M-339.0_arctan
+Blood circulatory-M-339.0_hmean
+Blood circulatory-Liver disease_multiply
+Blood circulatory-Liver disease_arctan
+Blood circulatory-Liver disease_hmean
+Blood circulatory-M-396.0_multiply
+Blood circulatory-M-396.0_arctan
+Blood circulatory-M-396.0_hmean
+Blood circulatory-Metabolic_multiply
+Blood circulatory-Metabolic_arctan
+Blood circulatory-Metabolic_hmean
+Blood circulatory-Malignant tumor_multiply
+Blood circulatory-Malignant tumor_arctan
+Blood circulatory-Malignant tumor_hmean
+Blood circulatory-M-617.0_multiply
+Blood circulatory-M-617.0_arctan
+Blood circulatory-M-617.0_hmean
+Blood circulatory-M-618.0_multiply
+Blood circulatory-M-618.0_arctan
+Blood circulatory-M-618.0_hmean
+Blood circulatory-M-629.0_multiply
+Blood circulatory-M-629.0_arctan
+Blood circulatory-M-629.0_hmean
+Blood circulatory-Opioid alkaloids_multiply
+Blood circulatory-Opioid alkaloids_arctan
+Blood circulatory-Opioid alkaloids_hmean
+Blood circulatory-Synthetic narcotic_multiply
+Blood circulatory-Synthetic narcotic_arctan
+Blood circulatory-Synthetic narcotic_hmean
+Expectorant-M-231.0_multiply
+Expectorant-M-231.0_arctan
+Expectorant-M-231.0_hmean
+Expectorant-Peptic ulcer_multiply
+Expectorant-Peptic ulcer_arctan
+Expectorant-Peptic ulcer_hmean
+Expectorant-Peptic_multiply
+Expectorant-Peptic_arctan
+Expectorant-Peptic_hmean
+Expectorant-Antacid_multiply
+Expectorant-Antacid_arctan
+Expectorant-Antacid_hmean
+Expectorant-Antiemetic_multiply
+Expectorant-Antiemetic_arctan
+Expectorant-Antiemetic_hmean
+Expectorant-Laxative_multiply
+Expectorant-Laxative_arctan
+Expectorant-Laxative_hmean
+Expectorant-Digestive system_multiply
+Expectorant-Digestive system_arctan
+Expectorant-Digestive system_hmean
+Expectorant-Adrenal hormone_multiply
+Expectorant-Adrenal hormone_arctan
+Expectorant-Adrenal hormone_hmean
+Expectorant-Vitamin B_multiply
+Expectorant-Vitamin B_arctan
+Expectorant-Vitamin B_hmean
+Expectorant-Diabetes_multiply
+Expectorant-Diabetes_arctan
+Expectorant-Diabetes_hmean
+Expectorant-M-325.0_multiply
+Expectorant-M-325.0_arctan
+Expectorant-M-325.0_hmean
+Expectorant-Blood substitute_multiply
+Expectorant-Blood substitute_arctan
+Expectorant-Blood substitute_hmean
+Expectorant-M-333.0_multiply
+Expectorant-M-333.0_arctan
+Expectorant-M-333.0_hmean
+Expectorant-M-339.0_multiply
+Expectorant-M-339.0_arctan
+Expectorant-M-339.0_hmean
+Expectorant-Liver disease_multiply
+Expectorant-Liver disease_arctan
+Expectorant-Liver disease_hmean
+Expectorant-M-396.0_multiply
+Expectorant-M-396.0_arctan
+Expectorant-M-396.0_hmean
+Expectorant-Metabolic_multiply
+Expectorant-Metabolic_arctan
+Expectorant-Metabolic_hmean
+Expectorant-Malignant tumor_multiply
+Expectorant-Malignant tumor_arctan
+Expectorant-Malignant tumor_hmean
+Expectorant-M-617.0_multiply
+Expectorant-M-617.0_arctan
+Expectorant-M-617.0_hmean
+Expectorant-M-618.0_multiply
+Expectorant-M-618.0_arctan
+Expectorant-M-618.0_hmean
+Expectorant-M-629.0_multiply
+Expectorant-M-629.0_arctan
+Expectorant-M-629.0_hmean
+Expectorant-Opioid alkaloids_multiply
+Expectorant-Opioid alkaloids_arctan
+Expectorant-Opioid alkaloids_hmean
+Expectorant-Synthetic narcotic_multiply
+Expectorant-Synthetic narcotic_arctan
+Expectorant-Synthetic narcotic_hmean
+M-231.0-Peptic ulcer_multiply
+M-231.0-Peptic ulcer_arctan
+M-231.0-Peptic ulcer_hmean
+M-231.0-Peptic_multiply
+M-231.0-Peptic_arctan
+M-231.0-Peptic_hmean
+M-231.0-Antacid_multiply
+M-231.0-Antacid_arctan
+M-231.0-Antacid_hmean
+M-231.0-Antiemetic_multiply
+M-231.0-Antiemetic_arctan
+M-231.0-Antiemetic_hmean
+M-231.0-Laxative_multiply
+M-231.0-Laxative_arctan
+M-231.0-Laxative_hmean
+M-231.0-Digestive system_multiply
+M-231.0-Digestive system_arctan
+M-231.0-Digestive system_hmean
+M-231.0-Adrenal hormone_multiply
+M-231.0-Adrenal hormone_arctan
+M-231.0-Adrenal hormone_hmean
+M-231.0-Vitamin B_multiply
+M-231.0-Vitamin B_arctan
+M-231.0-Vitamin B_hmean
+M-231.0-Diabetes_multiply
+M-231.0-Diabetes_arctan
+M-231.0-Diabetes_hmean
+M-231.0-M-325.0_multiply
+M-231.0-M-325.0_arctan
+M-231.0-M-325.0_hmean
+M-231.0-Blood substitute_multiply
+M-231.0-Blood substitute_arctan
+M-231.0-Blood substitute_hmean
+M-231.0-M-333.0_multiply
+M-231.0-M-333.0_arctan
+M-231.0-M-333.0_hmean
+M-231.0-M-339.0_multiply
+M-231.0-M-339.0_arctan
+M-231.0-M-339.0_hmean
+M-231.0-Liver disease_multiply
+M-231.0-Liver disease_arctan
+M-231.0-Liver disease_hmean
+M-231.0-M-396.0_multiply
+M-231.0-M-396.0_arctan
+M-231.0-M-396.0_hmean
+M-231.0-Metabolic_multiply
+M-231.0-Metabolic_arctan
+M-231.0-Metabolic_hmean
+M-231.0-Malignant tumor_multiply
+M-231.0-Malignant tumor_arctan
+M-231.0-Malignant tumor_hmean
+M-231.0-M-617.0_multiply
+M-231.0-M-617.0_arctan
+M-231.0-M-617.0_hmean
+M-231.0-M-618.0_multiply
+M-231.0-M-618.0_arctan
+M-231.0-M-618.0_hmean
+M-231.0-M-629.0_multiply
+M-231.0-M-629.0_arctan
+M-231.0-M-629.0_hmean
+M-231.0-Opioid alkaloids_multiply
+M-231.0-Opioid alkaloids_arctan
+M-231.0-Opioid alkaloids_hmean
+M-231.0-Synthetic narcotic_multiply
+M-231.0-Synthetic narcotic_arctan
+M-231.0-Synthetic narcotic_hmean
+Peptic ulcer-Peptic_multiply
+Peptic ulcer-Peptic_arctan
+Peptic ulcer-Peptic_hmean
+Peptic ulcer-Antacid_multiply
+Peptic ulcer-Antacid_arctan
+Peptic ulcer-Antacid_hmean
+Peptic ulcer-Antiemetic_multiply
+Peptic ulcer-Antiemetic_arctan
+Peptic ulcer-Antiemetic_hmean
+Peptic ulcer-Laxative_multiply
+Peptic ulcer-Laxative_arctan
+Peptic ulcer-Laxative_hmean
+Peptic ulcer-Digestive system_multiply
+Peptic ulcer-Digestive system_arctan
+Peptic ulcer-Digestive system_hmean
+Peptic ulcer-Adrenal hormone_multiply
+Peptic ulcer-Adrenal hormone_arctan
+Peptic ulcer-Adrenal hormone_hmean
+Peptic ulcer-Vitamin B_multiply
+Peptic ulcer-Vitamin B_arctan
+Peptic ulcer-Vitamin B_hmean
+Peptic ulcer-Diabetes_multiply
+Peptic ulcer-Diabetes_arctan
+Peptic ulcer-Diabetes_hmean
+Peptic ulcer-M-325.0_multiply
+Peptic ulcer-M-325.0_arctan
+Peptic ulcer-M-325.0_hmean
+Peptic ulcer-Blood substitute_multiply
+Peptic ulcer-Blood substitute_arctan
+Peptic ulcer-Blood substitute_hmean
+Peptic ulcer-M-333.0_multiply
+Peptic ulcer-M-333.0_arctan
+Peptic ulcer-M-333.0_hmean
+Peptic ulcer-M-339.0_multiply
+Peptic ulcer-M-339.0_arctan
+Peptic ulcer-M-339.0_hmean
+Peptic ulcer-Liver disease_multiply
+Peptic ulcer-Liver disease_arctan
+Peptic ulcer-Liver disease_hmean
+Peptic ulcer-M-396.0_multiply
+Peptic ulcer-M-396.0_arctan
+Peptic ulcer-M-396.0_hmean
+Peptic ulcer-Metabolic_multiply
+Peptic ulcer-Metabolic_arctan
+Peptic ulcer-Metabolic_hmean
+Peptic ulcer-Malignant tumor_multiply
+Peptic ulcer-Malignant tumor_arctan
+Peptic ulcer-Malignant tumor_hmean
+Peptic ulcer-M-617.0_multiply
+Peptic ulcer-M-617.0_arctan
+Peptic ulcer-M-617.0_hmean
+Peptic ulcer-M-618.0_multiply
+Peptic ulcer-M-618.0_arctan
+Peptic ulcer-M-618.0_hmean
+Peptic ulcer-M-629.0_multiply
+Peptic ulcer-M-629.0_arctan
+Peptic ulcer-M-629.0_hmean
+Peptic ulcer-Opioid alkaloids_multiply
+Peptic ulcer-Opioid alkaloids_arctan
+Peptic ulcer-Opioid alkaloids_hmean
+Peptic ulcer-Synthetic narcotic_multiply
+Peptic ulcer-Synthetic narcotic_arctan
+Peptic ulcer-Synthetic narcotic_hmean
+Peptic-Antacid_multiply
+Peptic-Antacid_arctan
+Peptic-Antacid_hmean
+Peptic-Antiemetic_multiply
+Peptic-Antiemetic_arctan
+Peptic-Antiemetic_hmean
+Peptic-Laxative_multiply
+Peptic-Laxative_arctan
+Peptic-Laxative_hmean
+Peptic-Digestive system_multiply
+Peptic-Digestive system_arctan
+Peptic-Digestive system_hmean
+Peptic-Adrenal hormone_multiply
+Peptic-Adrenal hormone_arctan
+Peptic-Adrenal hormone_hmean
+Peptic-Vitamin B_multiply
+Peptic-Vitamin B_arctan
+Peptic-Vitamin B_hmean
+Peptic-Diabetes_multiply
+Peptic-Diabetes_arctan
+Peptic-Diabetes_hmean
+Peptic-M-325.0_multiply
+Peptic-M-325.0_arctan
+Peptic-M-325.0_hmean
+Peptic-Blood substitute_multiply
+Peptic-Blood substitute_arctan
+Peptic-Blood substitute_hmean
+Peptic-M-333.0_multiply
+Peptic-M-333.0_arctan
+Peptic-M-333.0_hmean
+Peptic-M-339.0_multiply
+Peptic-M-339.0_arctan
+Peptic-M-339.0_hmean
+Peptic-Liver disease_multiply
+Peptic-Liver disease_arctan
+Peptic-Liver disease_hmean
+Peptic-M-396.0_multiply
+Peptic-M-396.0_arctan
+Peptic-M-396.0_hmean
+Peptic-Metabolic_multiply
+Peptic-Metabolic_arctan
+Peptic-Metabolic_hmean
+Peptic-Malignant tumor_multiply
+Peptic-Malignant tumor_arctan
+Peptic-Malignant tumor_hmean
+Peptic-M-617.0_multiply
+Peptic-M-617.0_arctan
+Peptic-M-617.0_hmean
+Peptic-M-618.0_multiply
+Peptic-M-618.0_arctan
+Peptic-M-618.0_hmean
+Peptic-M-629.0_multiply
+Peptic-M-629.0_arctan
+Peptic-M-629.0_hmean
+Peptic-Opioid alkaloids_multiply
+Peptic-Opioid alkaloids_arctan
+Peptic-Opioid alkaloids_hmean
+Peptic-Synthetic narcotic_multiply
+Peptic-Synthetic narcotic_arctan
+Peptic-Synthetic narcotic_hmean
+Antacid-Antiemetic_multiply
+Antacid-Antiemetic_arctan
+Antacid-Antiemetic_hmean
+Antacid-Laxative_multiply
+Antacid-Laxative_arctan
+Antacid-Laxative_hmean
+Antacid-Digestive system_multiply
+Antacid-Digestive system_arctan
+Antacid-Digestive system_hmean
+Antacid-Adrenal hormone_multiply
+Antacid-Adrenal hormone_arctan
+Antacid-Adrenal hormone_hmean
+Antacid-Vitamin B_multiply
+Antacid-Vitamin B_arctan
+Antacid-Vitamin B_hmean
+Antacid-Diabetes_multiply
+Antacid-Diabetes_arctan
+Antacid-Diabetes_hmean
+Antacid-M-325.0_multiply
+Antacid-M-325.0_arctan
+Antacid-M-325.0_hmean
+Antacid-Blood substitute_multiply
+Antacid-Blood substitute_arctan
+Antacid-Blood substitute_hmean
+Antacid-M-333.0_multiply
+Antacid-M-333.0_arctan
+Antacid-M-333.0_hmean
+Antacid-M-339.0_multiply
+Antacid-M-339.0_arctan
+Antacid-M-339.0_hmean
+Antacid-Liver disease_multiply
+Antacid-Liver disease_arctan
+Antacid-Liver disease_hmean
+Antacid-M-396.0_multiply
+Antacid-M-396.0_arctan
+Antacid-M-396.0_hmean
+Antacid-Metabolic_multiply
+Antacid-Metabolic_arctan
+Antacid-Metabolic_hmean
+Antacid-Malignant tumor_multiply
+Antacid-Malignant tumor_arctan
+Antacid-Malignant tumor_hmean
+Antacid-M-617.0_multiply
+Antacid-M-617.0_arctan
+Antacid-M-617.0_hmean
+Antacid-M-618.0_multiply
+Antacid-M-618.0_arctan
+Antacid-M-618.0_hmean
+Antacid-M-629.0_multiply
+Antacid-M-629.0_arctan
+Antacid-M-629.0_hmean
+Antacid-Opioid alkaloids_multiply
+Antacid-Opioid alkaloids_arctan
+Antacid-Opioid alkaloids_hmean
+Antacid-Synthetic narcotic_multiply
+Antacid-Synthetic narcotic_arctan
+Antacid-Synthetic narcotic_hmean
+Antiemetic-Laxative_multiply
+Antiemetic-Laxative_arctan
+Antiemetic-Laxative_hmean
+Antiemetic-Digestive system_multiply
+Antiemetic-Digestive system_arctan
+Antiemetic-Digestive system_hmean
+Antiemetic-Adrenal hormone_multiply
+Antiemetic-Adrenal hormone_arctan
+Antiemetic-Adrenal hormone_hmean
+Antiemetic-Vitamin B_multiply
+Antiemetic-Vitamin B_arctan
+Antiemetic-Vitamin B_hmean
+Antiemetic-Diabetes_multiply
+Antiemetic-Diabetes_arctan
+Antiemetic-Diabetes_hmean
+Antiemetic-M-325.0_multiply
+Antiemetic-M-325.0_arctan
+Antiemetic-M-325.0_hmean
+Antiemetic-Blood substitute_multiply
+Antiemetic-Blood substitute_arctan
+Antiemetic-Blood substitute_hmean
+Antiemetic-M-333.0_multiply
+Antiemetic-M-333.0_arctan
+Antiemetic-M-333.0_hmean
+Antiemetic-M-339.0_multiply
+Antiemetic-M-339.0_arctan
+Antiemetic-M-339.0_hmean
+Antiemetic-Liver disease_multiply
+Antiemetic-Liver disease_arctan
+Antiemetic-Liver disease_hmean
+Antiemetic-M-396.0_multiply
+Antiemetic-M-396.0_arctan
+Antiemetic-M-396.0_hmean
+Antiemetic-Metabolic_multiply
+Antiemetic-Metabolic_arctan
+Antiemetic-Metabolic_hmean
+Antiemetic-Malignant tumor_multiply
+Antiemetic-Malignant tumor_arctan
+Antiemetic-Malignant tumor_hmean
+Antiemetic-M-617.0_multiply
+Antiemetic-M-617.0_arctan
+Antiemetic-M-617.0_hmean
+Antiemetic-M-618.0_multiply
+Antiemetic-M-618.0_arctan
+Antiemetic-M-618.0_hmean
+Antiemetic-M-629.0_multiply
+Antiemetic-M-629.0_arctan
+Antiemetic-M-629.0_hmean
+Antiemetic-Opioid alkaloids_multiply
+Antiemetic-Opioid alkaloids_arctan
+Antiemetic-Opioid alkaloids_hmean
+Antiemetic-Synthetic narcotic_multiply
+Antiemetic-Synthetic narcotic_arctan
+Antiemetic-Synthetic narcotic_hmean
+Laxative-Digestive system_multiply
+Laxative-Digestive system_arctan
+Laxative-Digestive system_hmean
+Laxative-Adrenal hormone_multiply
+Laxative-Adrenal hormone_arctan
+Laxative-Adrenal hormone_hmean
+Laxative-Vitamin B_multiply
+Laxative-Vitamin B_arctan
+Laxative-Vitamin B_hmean
+Laxative-Diabetes_multiply
+Laxative-Diabetes_arctan
+Laxative-Diabetes_hmean
+Laxative-M-325.0_multiply
+Laxative-M-325.0_arctan
+Laxative-M-325.0_hmean
+Laxative-Blood substitute_multiply
+Laxative-Blood substitute_arctan
+Laxative-Blood substitute_hmean
+Laxative-M-333.0_multiply
+Laxative-M-333.0_arctan
+Laxative-M-333.0_hmean
+Laxative-M-339.0_multiply
+Laxative-M-339.0_arctan
+Laxative-M-339.0_hmean
+Laxative-Liver disease_multiply
+Laxative-Liver disease_arctan
+Laxative-Liver disease_hmean
+Laxative-M-396.0_multiply
+Laxative-M-396.0_arctan
+Laxative-M-396.0_hmean
+Laxative-Metabolic_multiply
+Laxative-Metabolic_arctan
+Laxative-Metabolic_hmean
+Laxative-Malignant tumor_multiply
+Laxative-Malignant tumor_arctan
+Laxative-Malignant tumor_hmean
+Laxative-M-617.0_multiply
+Laxative-M-617.0_arctan
+Laxative-M-617.0_hmean
+Laxative-M-618.0_multiply
+Laxative-M-618.0_arctan
+Laxative-M-618.0_hmean
+Laxative-M-629.0_multiply
+Laxative-M-629.0_arctan
+Laxative-M-629.0_hmean
+Laxative-Opioid alkaloids_multiply
+Laxative-Opioid alkaloids_arctan
+Laxative-Opioid alkaloids_hmean
+Laxative-Synthetic narcotic_multiply
+Laxative-Synthetic narcotic_arctan
+Laxative-Synthetic narcotic_hmean
+Digestive system-Adrenal hormone_multiply
+Digestive system-Adrenal hormone_arctan
+Digestive system-Adrenal hormone_hmean
+Digestive system-Vitamin B_multiply
+Digestive system-Vitamin B_arctan
+Digestive system-Vitamin B_hmean
+Digestive system-Diabetes_multiply
+Digestive system-Diabetes_arctan
+Digestive system-Diabetes_hmean
+Digestive system-M-325.0_multiply
+Digestive system-M-325.0_arctan
+Digestive system-M-325.0_hmean
+Digestive system-Blood substitute_multiply
+Digestive system-Blood substitute_arctan
+Digestive system-Blood substitute_hmean
+Digestive system-M-333.0_multiply
+Digestive system-M-333.0_arctan
+Digestive system-M-333.0_hmean
+Digestive system-M-339.0_multiply
+Digestive system-M-339.0_arctan
+Digestive system-M-339.0_hmean
+Digestive system-Liver disease_multiply
+Digestive system-Liver disease_arctan
+Digestive system-Liver disease_hmean
+Digestive system-M-396.0_multiply
+Digestive system-M-396.0_arctan
+Digestive system-M-396.0_hmean
+Digestive system-Metabolic_multiply
+Digestive system-Metabolic_arctan
+Digestive system-Metabolic_hmean
+Digestive system-Malignant tumor_multiply
+Digestive system-Malignant tumor_arctan
+Digestive system-Malignant tumor_hmean
+Digestive system-M-617.0_multiply
+Digestive system-M-617.0_arctan
+Digestive system-M-617.0_hmean
+Digestive system-M-618.0_multiply
+Digestive system-M-618.0_arctan
+Digestive system-M-618.0_hmean
+Digestive system-M-629.0_multiply
+Digestive system-M-629.0_arctan
+Digestive system-M-629.0_hmean
+Digestive system-Opioid alkaloids_multiply
+Digestive system-Opioid alkaloids_arctan
+Digestive system-Opioid alkaloids_hmean
+Digestive system-Synthetic narcotic_multiply
+Digestive system-Synthetic narcotic_arctan
+Digestive system-Synthetic narcotic_hmean
+Adrenal hormone-Vitamin B_multiply
+Adrenal hormone-Vitamin B_arctan
+Adrenal hormone-Vitamin B_hmean
+Adrenal hormone-Diabetes_multiply
+Adrenal hormone-Diabetes_arctan
+Adrenal hormone-Diabetes_hmean
+Adrenal hormone-M-325.0_multiply
+Adrenal hormone-M-325.0_arctan
+Adrenal hormone-M-325.0_hmean
+Adrenal hormone-Blood substitute_multiply
+Adrenal hormone-Blood substitute_arctan
+Adrenal hormone-Blood substitute_hmean
+Adrenal hormone-M-333.0_multiply
+Adrenal hormone-M-333.0_arctan
+Adrenal hormone-M-333.0_hmean
+Adrenal hormone-M-339.0_multiply
+Adrenal hormone-M-339.0_arctan
+Adrenal hormone-M-339.0_hmean
+Adrenal hormone-Liver disease_multiply
+Adrenal hormone-Liver disease_arctan
+Adrenal hormone-Liver disease_hmean
+Adrenal hormone-M-396.0_multiply
+Adrenal hormone-M-396.0_arctan
+Adrenal hormone-M-396.0_hmean
+Adrenal hormone-Metabolic_multiply
+Adrenal hormone-Metabolic_arctan
+Adrenal hormone-Metabolic_hmean
+Adrenal hormone-Malignant tumor_multiply
+Adrenal hormone-Malignant tumor_arctan
+Adrenal hormone-Malignant tumor_hmean
+Adrenal hormone-M-617.0_multiply
+Adrenal hormone-M-617.0_arctan
+Adrenal hormone-M-617.0_hmean
+Adrenal hormone-M-618.0_multiply
+Adrenal hormone-M-618.0_arctan
+Adrenal hormone-M-618.0_hmean
+Adrenal hormone-M-629.0_multiply
+Adrenal hormone-M-629.0_arctan
+Adrenal hormone-M-629.0_hmean
+Adrenal hormone-Opioid alkaloids_multiply
+Adrenal hormone-Opioid alkaloids_arctan
+Adrenal hormone-Opioid alkaloids_hmean
+Adrenal hormone-Synthetic narcotic_multiply
+Adrenal hormone-Synthetic narcotic_arctan
+Adrenal hormone-Synthetic narcotic_hmean
+Vitamin B-Diabetes_multiply
+Vitamin B-Diabetes_arctan
+Vitamin B-Diabetes_hmean
+Vitamin B-M-325.0_multiply
+Vitamin B-M-325.0_arctan
+Vitamin B-M-325.0_hmean
+Vitamin B-Blood substitute_multiply
+Vitamin B-Blood substitute_arctan
+Vitamin B-Blood substitute_hmean
+Vitamin B-M-333.0_multiply
+Vitamin B-M-333.0_arctan
+Vitamin B-M-333.0_hmean
+Vitamin B-M-339.0_multiply
+Vitamin B-M-339.0_arctan
+Vitamin B-M-339.0_hmean
+Vitamin B-Liver disease_multiply
+Vitamin B-Liver disease_arctan
+Vitamin B-Liver disease_hmean
+Vitamin B-M-396.0_multiply
+Vitamin B-M-396.0_arctan
+Vitamin B-M-396.0_hmean
+Vitamin B-Metabolic_multiply
+Vitamin B-Metabolic_arctan
+Vitamin B-Metabolic_hmean
+Vitamin B-Malignant tumor_multiply
+Vitamin B-Malignant tumor_arctan
+Vitamin B-Malignant tumor_hmean
+Vitamin B-M-617.0_multiply
+Vitamin B-M-617.0_arctan
+Vitamin B-M-617.0_hmean
+Vitamin B-M-618.0_multiply
+Vitamin B-M-618.0_arctan
+Vitamin B-M-618.0_hmean
+Vitamin B-M-629.0_multiply
+Vitamin B-M-629.0_arctan
+Vitamin B-M-629.0_hmean
+Vitamin B-Opioid alkaloids_multiply
+Vitamin B-Opioid alkaloids_arctan
+Vitamin B-Opioid alkaloids_hmean
+Vitamin B-Synthetic narcotic_multiply
+Vitamin B-Synthetic narcotic_arctan
+Vitamin B-Synthetic narcotic_hmean
+Diabetes-M-325.0_multiply
+Diabetes-M-325.0_arctan
+Diabetes-M-325.0_hmean
+Diabetes-Blood substitute_multiply
+Diabetes-Blood substitute_arctan
+Diabetes-Blood substitute_hmean
+Diabetes-M-333.0_multiply
+Diabetes-M-333.0_arctan
+Diabetes-M-333.0_hmean
+Diabetes-M-339.0_multiply
+Diabetes-M-339.0_arctan
+Diabetes-M-339.0_hmean
+Diabetes-Liver disease_multiply
+Diabetes-Liver disease_arctan
+Diabetes-Liver disease_hmean
+Diabetes-M-396.0_multiply
+Diabetes-M-396.0_arctan
+Diabetes-M-396.0_hmean
+Diabetes-Metabolic_multiply
+Diabetes-Metabolic_arctan
+Diabetes-Metabolic_hmean
+Diabetes-Malignant tumor_multiply
+Diabetes-Malignant tumor_arctan
+Diabetes-Malignant tumor_hmean
+Diabetes-M-617.0_multiply
+Diabetes-M-617.0_arctan
+Diabetes-M-617.0_hmean
+Diabetes-M-618.0_multiply
+Diabetes-M-618.0_arctan
+Diabetes-M-618.0_hmean
+Diabetes-M-629.0_multiply
+Diabetes-M-629.0_arctan
+Diabetes-M-629.0_hmean
+Diabetes-Opioid alkaloids_multiply
+Diabetes-Opioid alkaloids_arctan
+Diabetes-Opioid alkaloids_hmean
+Diabetes-Synthetic narcotic_multiply
+Diabetes-Synthetic narcotic_arctan
+Diabetes-Synthetic narcotic_hmean
+M-325.0-Blood substitute_multiply
+M-325.0-Blood substitute_arctan
+M-325.0-Blood substitute_hmean
+M-325.0-M-333.0_multiply
+M-325.0-M-333.0_arctan
+M-325.0-M-333.0_hmean
+M-325.0-M-339.0_multiply
+M-325.0-M-339.0_arctan
+M-325.0-M-339.0_hmean
+M-325.0-Liver disease_multiply
+M-325.0-Liver disease_arctan
+M-325.0-Liver disease_hmean
+M-325.0-M-396.0_multiply
+M-325.0-M-396.0_arctan
+M-325.0-M-396.0_hmean
+M-325.0-Metabolic_multiply
+M-325.0-Metabolic_arctan
+M-325.0-Metabolic_hmean
+M-325.0-Malignant tumor_multiply
+M-325.0-Malignant tumor_arctan
+M-325.0-Malignant tumor_hmean
+M-325.0-M-617.0_multiply
+M-325.0-M-617.0_arctan
+M-325.0-M-617.0_hmean
+M-325.0-M-618.0_multiply
+M-325.0-M-618.0_arctan
+M-325.0-M-618.0_hmean
+M-325.0-M-629.0_multiply
+M-325.0-M-629.0_arctan
+M-325.0-M-629.0_hmean
+M-325.0-Opioid alkaloids_multiply
+M-325.0-Opioid alkaloids_arctan
+M-325.0-Opioid alkaloids_hmean
+M-325.0-Synthetic narcotic_multiply
+M-325.0-Synthetic narcotic_arctan
+M-325.0-Synthetic narcotic_hmean
+Blood substitute-M-333.0_multiply
+Blood substitute-M-333.0_arctan
+Blood substitute-M-333.0_hmean
+Blood substitute-M-339.0_multiply
+Blood substitute-M-339.0_arctan
+Blood substitute-M-339.0_hmean
+Blood substitute-Liver disease_multiply
+Blood substitute-Liver disease_arctan
+Blood substitute-Liver disease_hmean
+Blood substitute-M-396.0_multiply
+Blood substitute-M-396.0_arctan
+Blood substitute-M-396.0_hmean
+Blood substitute-Metabolic_multiply
+Blood substitute-Metabolic_arctan
+Blood substitute-Metabolic_hmean
+Blood substitute-Malignant tumor_multiply
+Blood substitute-Malignant tumor_arctan
+Blood substitute-Malignant tumor_hmean
+Blood substitute-M-617.0_multiply
+Blood substitute-M-617.0_arctan
+Blood substitute-M-617.0_hmean
+Blood substitute-M-618.0_multiply
+Blood substitute-M-618.0_arctan
+Blood substitute-M-618.0_hmean
+Blood substitute-M-629.0_multiply
+Blood substitute-M-629.0_arctan
+Blood substitute-M-629.0_hmean
+Blood substitute-Opioid alkaloids_multiply
+Blood substitute-Opioid alkaloids_arctan
+Blood substitute-Opioid alkaloids_hmean
+Blood substitute-Synthetic narcotic_multiply
+Blood substitute-Synthetic narcotic_arctan
+Blood substitute-Synthetic narcotic_hmean
+M-333.0-M-339.0_multiply
+M-333.0-M-339.0_arctan
+M-333.0-M-339.0_hmean
+M-333.0-Liver disease_multiply
+M-333.0-Liver disease_arctan
+M-333.0-Liver disease_hmean
+M-333.0-M-396.0_multiply
+M-333.0-M-396.0_arctan
+M-333.0-M-396.0_hmean
+M-333.0-Metabolic_multiply
+M-333.0-Metabolic_arctan
+M-333.0-Metabolic_hmean
+M-333.0-Malignant tumor_multiply
+M-333.0-Malignant tumor_arctan
+M-333.0-Malignant tumor_hmean
+M-333.0-M-617.0_multiply
+M-333.0-M-617.0_arctan
+M-333.0-M-617.0_hmean
+M-333.0-M-618.0_multiply
+M-333.0-M-618.0_arctan
+M-333.0-M-618.0_hmean
+M-333.0-M-629.0_multiply
+M-333.0-M-629.0_arctan
+M-333.0-M-629.0_hmean
+M-333.0-Opioid alkaloids_multiply
+M-333.0-Opioid alkaloids_arctan
+M-333.0-Opioid alkaloids_hmean
+M-333.0-Synthetic narcotic_multiply
+M-333.0-Synthetic narcotic_arctan
+M-333.0-Synthetic narcotic_hmean
+M-339.0-Liver disease_multiply
+M-339.0-Liver disease_arctan
+M-339.0-Liver disease_hmean
+M-339.0-M-396.0_multiply
+M-339.0-M-396.0_arctan
+M-339.0-M-396.0_hmean
+M-339.0-Metabolic_multiply
+M-339.0-Metabolic_arctan
+M-339.0-Metabolic_hmean
+M-339.0-Malignant tumor_multiply
+M-339.0-Malignant tumor_arctan
+M-339.0-Malignant tumor_hmean
+M-339.0-M-617.0_multiply
+M-339.0-M-617.0_arctan
+M-339.0-M-617.0_hmean
+M-339.0-M-618.0_multiply
+M-339.0-M-618.0_arctan
+M-339.0-M-618.0_hmean
+M-339.0-M-629.0_multiply
+M-339.0-M-629.0_arctan
+M-339.0-M-629.0_hmean
+M-339.0-Opioid alkaloids_multiply
+M-339.0-Opioid alkaloids_arctan
+M-339.0-Opioid alkaloids_hmean
+M-339.0-Synthetic narcotic_multiply
+M-339.0-Synthetic narcotic_arctan
+M-339.0-Synthetic narcotic_hmean
+Liver disease-M-396.0_multiply
+Liver disease-M-396.0_arctan
+Liver disease-M-396.0_hmean
+Liver disease-Metabolic_multiply
+Liver disease-Metabolic_arctan
+Liver disease-Metabolic_hmean
+Liver disease-Malignant tumor_multiply
+Liver disease-Malignant tumor_arctan
+Liver disease-Malignant tumor_hmean
+Liver disease-M-617.0_multiply
+Liver disease-M-617.0_arctan
+Liver disease-M-617.0_hmean
+Liver disease-M-618.0_multiply
+Liver disease-M-618.0_arctan
+Liver disease-M-618.0_hmean
+Liver disease-M-629.0_multiply
+Liver disease-M-629.0_arctan
+Liver disease-M-629.0_hmean
+Liver disease-Opioid alkaloids_multiply
+Liver disease-Opioid alkaloids_arctan
+Liver disease-Opioid alkaloids_hmean
+Liver disease-Synthetic narcotic_multiply
+Liver disease-Synthetic narcotic_arctan
+Liver disease-Synthetic narcotic_hmean
+M-396.0-Metabolic_multiply
+M-396.0-Metabolic_arctan
+M-396.0-Metabolic_hmean
+M-396.0-Malignant tumor_multiply
+M-396.0-Malignant tumor_arctan
+M-396.0-Malignant tumor_hmean
+M-396.0-M-617.0_multiply
+M-396.0-M-617.0_arctan
+M-396.0-M-617.0_hmean
+M-396.0-M-618.0_multiply
+M-396.0-M-618.0_arctan
+M-396.0-M-618.0_hmean
+M-396.0-M-629.0_multiply
+M-396.0-M-629.0_arctan
+M-396.0-M-629.0_hmean
+M-396.0-Opioid alkaloids_multiply
+M-396.0-Opioid alkaloids_arctan
+M-396.0-Opioid alkaloids_hmean
+M-396.0-Synthetic narcotic_multiply
+M-396.0-Synthetic narcotic_arctan
+M-396.0-Synthetic narcotic_hmean
+Metabolic-Malignant tumor_multiply
+Metabolic-Malignant tumor_arctan
+Metabolic-Malignant tumor_hmean
+Metabolic-M-617.0_multiply
+Metabolic-M-617.0_arctan
+Metabolic-M-617.0_hmean
+Metabolic-M-618.0_multiply
+Metabolic-M-618.0_arctan
+Metabolic-M-618.0_hmean
+Metabolic-M-629.0_multiply
+Metabolic-M-629.0_arctan
+Metabolic-M-629.0_hmean
+Metabolic-Opioid alkaloids_multiply
+Metabolic-Opioid alkaloids_arctan
+Metabolic-Opioid alkaloids_hmean
+Metabolic-Synthetic narcotic_multiply
+Metabolic-Synthetic narcotic_arctan
+Metabolic-Synthetic narcotic_hmean
+Malignant tumor-M-617.0_multiply
+Malignant tumor-M-617.0_arctan
+Malignant tumor-M-617.0_hmean
+Malignant tumor-M-618.0_multiply
+Malignant tumor-M-618.0_arctan
+Malignant tumor-M-618.0_hmean
+Malignant tumor-M-629.0_multiply
+Malignant tumor-M-629.0_arctan
+Malignant tumor-M-629.0_hmean
+Malignant tumor-Opioid alkaloids_multiply
+Malignant tumor-Opioid alkaloids_arctan
+Malignant tumor-Opioid alkaloids_hmean
+Malignant tumor-Synthetic narcotic_multiply
+Malignant tumor-Synthetic narcotic_arctan
+Malignant tumor-Synthetic narcotic_hmean
+M-617.0-M-618.0_multiply
+M-617.0-M-618.0_arctan
+M-617.0-M-618.0_hmean
+M-617.0-M-629.0_multiply
+M-617.0-M-629.0_arctan
+M-617.0-M-629.0_hmean
+M-617.0-Opioid alkaloids_multiply
+M-617.0-Opioid alkaloids_arctan
+M-617.0-Opioid alkaloids_hmean
+M-617.0-Synthetic narcotic_multiply
+M-617.0-Synthetic narcotic_arctan
+M-617.0-Synthetic narcotic_hmean
+M-618.0-M-629.0_multiply
+M-618.0-M-629.0_arctan
+M-618.0-M-629.0_hmean
+M-618.0-Opioid alkaloids_multiply
+M-618.0-Opioid alkaloids_arctan
+M-618.0-Opioid alkaloids_hmean
+M-618.0-Synthetic narcotic_multiply
+M-618.0-Synthetic narcotic_arctan
+M-618.0-Synthetic narcotic_hmean
+M-629.0-Opioid alkaloids_multiply
+M-629.0-Opioid alkaloids_arctan
+M-629.0-Opioid alkaloids_hmean
+M-629.0-Synthetic narcotic_multiply
+M-629.0-Synthetic narcotic_arctan
+M-629.0-Synthetic narcotic_hmean
+Opioid alkaloids-Synthetic narcotic_multiply
+Opioid alkaloids-Synthetic narcotic_arctan
+Opioid alkaloids-Synthetic narcotic_hmean
