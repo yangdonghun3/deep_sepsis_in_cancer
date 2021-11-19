@@ -1,6 +1,6 @@
 # Identification of the risk of sepsis in cancer patients using digital health care records
 This project is for the paper "Identification of the risk of sepsis in cancer patients using digital health care records" in the *Journal of the American Medical Informatics Association* (JAMIA).
-- Authors of source code: yangdonghun3@kisti.re.kr, jmkim@kisti.re.kr, junnsang@gmail.com, wc.cha@samsung.com, hyojungpaik@gmail.com
+- Authors of source code: yangdonghun3@kisti.re.kr, jmkim@kisti.re.kr
 - Current version of the project: ver. 0.1
 
 ## Abstract
@@ -30,15 +30,13 @@ We present the source codes as an example of our research project to help reader
 Due to personal information issues, we provide dummy data instead of the EHR information of cancer patients used in our experiments for testing the proposed sepsis prediction model.
 
 ## Experiments
-We provide training and testing codes for two machin learning models and three deep learning models for sepsis prediction. 
+We provide training and testing codes for two machin learning models and three deep learning models for sepsis prediction.
 - Machine learning models: Logistic Regression and Random Forest
 - Deep learning models: ANN, ResNet10, and RNN-LSTM
 - Each training code (Sepsis_prediction_xxx.ipynb) includes our setup and experimental results.
-- The trained models, provided in the "trained_model" directory, can be tested on dummy data using each testing code (Sepsis_prediction_xxx_Test_using_dummy_data.ipynb).    
+- The trained models, provided in the "trained_model" directory, can be tested on dummy data using each testing code (Sepsis_prediction_xxx_Test_using_dummy_data.ipynb). 
+- In the SHAP_for_RF.ipynb file, important features, that mainly contributed to the proposed sepsis prediction model, are shown.   
 
 ## Contact information
-- Donghun Yang. yangdonghun3@kisti.re.kr
-- Jimin Kim. jmkim@kisti.re.kr
-- Junsang Yoo. junnsang@gmail.com
 - Won Chul Cha. wc.cha@samsung.com
 - Hyojung Paik. hyojungpaik@gmail.com
