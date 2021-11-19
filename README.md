@@ -35,7 +35,7 @@ We provide training and testing codes for two machin learning models and three d
 - Deep learning models: ANN, ResNet10, and RNN-LSTM
 - Each training code (Sepsis_prediction_xxx.ipynb) includes our setup and experimental results.
 - The trained models, provided in the "trained_model" directory, can be tested on dummy data using each testing code (Sepsis_prediction_xxx_Test_using_dummy_data.ipynb). 
-- In the SHAP_for_RF.ipynb file, important features, that mainly contributed to the proposed sepsis prediction model, are shown.   
+- In the SHAP_for_RF.ipynb file, important features, that mainly contributed to the proposed sepsis prediction model (Random Forest-based), are shown.   
 
 ## Contact information
 - Won Chul Cha. wc.cha@samsung.com
