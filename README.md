@@ -1,5 +1,5 @@
 # Identification of the risk of sepsis in cancer patients using digital health care records
-This project is for the paper "Identification of the risk of sepsis in cancer patients using digital health care records" in the *BMC Medical Informatics and Decision Making*.
+This project is for the paper "Identification of the risk of sepsis in cancer patients using digital health care records" in *BMC Medical Informatics and Decision Making*.
 - Authors of source code: yangdonghun3@kisti.re.kr, jmkim@kisti.re.kr
 - Current version of the project: ver. 0.1
 
